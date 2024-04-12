@@ -1,4 +1,4 @@
-Hi There! ![](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)My name is Silas Ferreira
+Hi There! ![]My name is Silas Ferreira (https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
 ======================================================================================================================================
 
 Higher education student in systems analysis and development
