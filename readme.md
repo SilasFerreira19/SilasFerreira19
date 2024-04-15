@@ -1,5 +1,11 @@
-Hi There! My name is Silas Ferreira ![](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
-======================================================================================================================================
+<div>
+  <h1> Hi There! My name is Silas Ferreira <img style="height: 50px" src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png">
+</div>
+<div>
+  <img style="height: 50px" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
+  <img style="height: 50px" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+  <img style="height: 50px" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif">
+</div>
 
 Higher education student in systems analysis and development
 ------------------------------------------------------------
